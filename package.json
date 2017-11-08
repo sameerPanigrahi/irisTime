@@ -1,0 +1,22 @@
+{
+  "name": "iris_time",
+  "version": "1.0.0",
+  "description": "Time microservice",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "iris",
+    "microservice"
+  ],
+  "author": "sameer panigrahi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "moment": "^2.18.1",
+    "npm-dev": "0.0.0",
+    "superagent": "^3.6.3"
+  }
+}

@@ -1,0 +1,6 @@
+Google geo coding apis
+AIzaSyB0Cu8XpcrTOYNc6Deu75S4dmDKhqPxEOk
+https://maps.googleapis.com/maps/api/geocode/json?place_id=<<<<<<<<<>>>>>>>>&key=AIzaSyB0Cu8XpcrTOYNc6Deu75S4dmDKhqPxEOk
+
+https://maps.googleapis.com/maps/api/timezone/json?location=<<<<<38.908133,-77.047119>>>>>>>>>&timestamp=<<<<<<<<<<<<<>>>>>>>&key=AIzaSyB0Cu8XpcrTOYNc6Deu75S4dmDKhqPxEOk
+
